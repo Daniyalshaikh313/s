@@ -68,7 +68,7 @@ This project showcases a comprehensive **weekly credit card dashboard** that emp
 
 ## 📊 Project Learnings
 
-- Built real-time financial monitoring dashboards integrating PostgreSQL and Power BI.
+- Built real-time financial monitoring dashboards integrating SQL and Power BI.
 - Created calculated KPIs and dynamic filters using DAX for customized analysis.
 - Enabled executive decision-making by visualizing revenue drivers and cardholder behavior.
 - Applied advanced Power BI techniques to drive stakeholder engagement.
